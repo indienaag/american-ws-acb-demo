@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 38,
+    "code1": "a",
+    "code2": "sodales",
+    "airlineName": "ipsum",
+    "toAirport": "consectetur",
+    "fromAirport": "consectetur",
+    "price": 0.37,
+    "planeType": "consectetur",
+    "seatsAvailable": 12,
+    "totalSeats": 71
+  }
+]
